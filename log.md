@@ -64,3 +64,9 @@
 **Progress:** I did a lot. Created a Dash App, finished my Machine LEarning project. Made my website mobile responsive
 
 **Thoughts:** i've done more this quarantine than ever before. Currently completing FreeCodeCamp's JS certification!
+
+### Day 71 - 74: ###
+
+**Progress:** Things have been rather slow this week because of final exams and such. Done with undergra though! 
+
+**Thoughts:** Would love to get started on storybook or learn more javaScript
