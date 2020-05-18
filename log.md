@@ -70,3 +70,8 @@
 **Progress:** Things have been rather slow this week because of final exams and such. Done with undergra though! 
 
 **Thoughts:** Would love to get started on storybook or learn more javaScript
+
+### Day 75 - 78: ###
+
+**Progress:** I've been doing a lot of Storybook and I think I'm getting a hang of JavaScript and stuffs. 
+**Thoughts:** Weekends are for rest only, do not do intense work.
