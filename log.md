@@ -75,3 +75,8 @@
 
 **Progress:** I've been doing a lot of Storybook and I think I'm getting a hang of JavaScript and stuffs. 
 **Thoughts:** Weekends are for rest only, do not do intense work.
+
+### Day 79: ###
+
+**Progress:** Finally got the Header component done. Still need to figure out how to put the shadow in there.
+**Thoughts:** Very interesting
