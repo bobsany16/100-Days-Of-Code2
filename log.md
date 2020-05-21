@@ -80,3 +80,9 @@
 
 **Progress:** Finally got the Header component done. Still need to figure out how to put the shadow in there.
 **Thoughts:** Very interesting
+
+
+### Day 80: ###
+
+**Progress:** Did some more React Native Storybook
+**Thoughts:** Why didn't I start learning this a long time ago
