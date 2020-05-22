@@ -86,3 +86,8 @@
 
 **Progress:** Did some more React Native Storybook
 **Thoughts:** Why didn't I start learning this a long time ago
+
+### Day 81: ###
+
+**Progress:** Fixed my website again today
+**Thoughts:** I want to be able to play a full-screen video with text on top. 
