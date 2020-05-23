@@ -91,3 +91,7 @@
 
 **Progress:** Fixed my website again today
 **Thoughts:** I want to be able to play a full-screen video with text on top. 
+
+### Day 82: ###
+**Progress:** Got to do a lot of Storybook recently and learning about React components and stuffs. Truly useful!
+**Thoughts:** Love it
