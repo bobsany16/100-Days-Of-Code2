@@ -93,5 +93,13 @@
 **Thoughts:** I want to be able to play a full-screen video with text on top. 
 
 ### Day 82: ###
+
 **Progress:** Got to do a lot of Storybook recently and learning about React components and stuffs. Truly useful!
 **Thoughts:** Love it
+
+
+### Day 83: ###
+
+**Progress:** Lack of sleep for a couple nights has left me unmotivated but I pushed through with some freeCodeCamp's 
+React lessons
+**Thoughts:** Trying to re-establish a healthy sleep/work-schedule has been hard but I believe I'll make it happen
