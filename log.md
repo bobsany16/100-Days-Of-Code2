@@ -103,3 +103,8 @@
 **Progress:** Lack of sleep for a couple nights has left me unmotivated but I pushed through with some freeCodeCamp's 
 React lessons
 **Thoughts:** Trying to re-establish a healthy sleep/work-schedule has been hard but I believe I'll make it happen
+
+### Day 84: ###
+
+**Progress:** In an attempt to learn more about React components, I decided to create a mock design of my.sbu.edu. 
+**Thoughts:** Skeleton created, now I just need to go on and populate the site.
