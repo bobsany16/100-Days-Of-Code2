@@ -108,3 +108,9 @@ React lessons
 
 **Progress:** In an attempt to learn more about React components, I decided to create a mock design of my.sbu.edu. 
 **Thoughts:** Skeleton created, now I just need to go on and populate the site.
+
+### Day 85: ###
+
+**Progress:** Made some stylings in mySBUMock via module.css and global.css files. 
+**Thoughts:** Stylings in React is a bit weird for me, it'll probably take a bit to familiarize myself.
+
