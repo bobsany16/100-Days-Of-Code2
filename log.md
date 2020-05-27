@@ -114,3 +114,7 @@ React lessons
 **Progress:** Made some stylings in mySBUMock via module.css and global.css files. 
 **Thoughts:** Stylings in React is a bit weird for me, it'll probably take a bit to familiarize myself.
 
+### Day 86: ###
+
+**Progress:** Set up BurnerBlack, after dealing with errors for hours, I got it up and running
+**Thoughts:** Laying out the tasks needed to be done during the day is very helpful in keeping me disciplined.
