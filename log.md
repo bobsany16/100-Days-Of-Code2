@@ -118,3 +118,9 @@ React lessons
 
 **Progress:** Set up BurnerBlack, after dealing with errors for hours, I got it up and running
 **Thoughts:** Laying out the tasks needed to be done during the day is very helpful in keeping me disciplined.
+
+
+### Day 87: ###
+
+**Progress:** Experienced some React Native navigation and (i guess?) global navigation
+**Thoughts:** I need to review some concepts from FCC or Egghead
