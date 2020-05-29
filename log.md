@@ -124,3 +124,8 @@ React lessons
 
 **Progress:** Experienced some React Native navigation and (i guess?) global navigation
 **Thoughts:** I need to review some concepts from FCC or Egghead
+
+### Day 88: ###
+
+**Progress:** Completely populated the event page
+**Thoughts:** Was a pretty unproductive day
