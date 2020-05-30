@@ -74,27 +74,32 @@
 ### Day 75 - 78: ###
 
 **Progress:** I've been doing a lot of Storybook and I think I'm getting a hang of JavaScript and stuffs. 
+
 **Thoughts:** Weekends are for rest only, do not do intense work.
 
 ### Day 79: ###
 
 **Progress:** Finally got the Header component done. Still need to figure out how to put the shadow in there.
+
 **Thoughts:** Very interesting
 
 
 ### Day 80: ###
 
 **Progress:** Did some more React Native Storybook
+
 **Thoughts:** Why didn't I start learning this a long time ago
 
 ### Day 81: ###
 
 **Progress:** Fixed my website again today
+
 **Thoughts:** I want to be able to play a full-screen video with text on top. 
 
 ### Day 82: ###
 
 **Progress:** Got to do a lot of Storybook recently and learning about React components and stuffs. Truly useful!
+
 **Thoughts:** Love it
 
 
@@ -102,30 +107,36 @@
 
 **Progress:** Lack of sleep for a couple nights has left me unmotivated but I pushed through with some freeCodeCamp's 
 React lessons
+
 **Thoughts:** Trying to re-establish a healthy sleep/work-schedule has been hard but I believe I'll make it happen
 
 ### Day 84: ###
 
 **Progress:** In an attempt to learn more about React components, I decided to create a mock design of my.sbu.edu. 
+
 **Thoughts:** Skeleton created, now I just need to go on and populate the site.
 
 ### Day 85: ###
 
 **Progress:** Made some stylings in mySBUMock via module.css and global.css files. 
+
 **Thoughts:** Stylings in React is a bit weird for me, it'll probably take a bit to familiarize myself.
 
 ### Day 86: ###
 
 **Progress:** Set up BurnerBlack, after dealing with errors for hours, I got it up and running
+
 **Thoughts:** Laying out the tasks needed to be done during the day is very helpful in keeping me disciplined.
 
 
 ### Day 87: ###
 
 **Progress:** Experienced some React Native navigation and (i guess?) global navigation
+
 **Thoughts:** I need to review some concepts from FCC or Egghead
 
 ### Day 88: ###
 
 **Progress:** Completely populated the event page
+
 **Thoughts:** Was a pretty unproductive day
