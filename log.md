@@ -140,3 +140,10 @@ React lessons
 **Progress:** Completely populated the event page
 
 **Thoughts:** Was a pretty unproductive day
+
+### Day 89: ###
+
+**Progress:** Tried to figure out why the goBack navigation doesn't work
+
+**Thoughts:** I can be so lazy I hate myself
+
