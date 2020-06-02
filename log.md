@@ -147,3 +147,8 @@ React lessons
 
 **Thoughts:** I can be so lazy I hate myself
 
+### Day 90: ###
+
+**Progress:** Learned about Redux and how to work with Redux in a React app. 
+
+**Thoughts:** Waking up at 8 is going to be one hell of a challenge in these next few weeks! 
