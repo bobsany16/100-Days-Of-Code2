@@ -152,3 +152,9 @@ React lessons
 **Progress:** Learned about Redux and how to work with Redux in a React app. 
 
 **Thoughts:** Waking up at 8 is going to be one hell of a challenge in these next few weeks! 
+
+### Day 91: ###
+
+**Progress:** React Native Navigation can be so complicated
+
+**Thoughts:** More FreeCodeCamp, I suppose
