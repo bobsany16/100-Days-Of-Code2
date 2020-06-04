@@ -158,3 +158,10 @@ React lessons
 **Progress:** React Native Navigation can be so complicated
 
 **Thoughts:** More FreeCodeCamp, I suppose
+
+
+### Day 92: ###
+
+**Progress:** REdux who
+
+**Thoughts:** THis thing is hard, no jokes
