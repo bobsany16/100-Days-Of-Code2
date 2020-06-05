@@ -165,3 +165,10 @@ React lessons
 **Progress:** REdux who
 
 **Thoughts:** THis thing is hard, no jokes
+
+
+### Day 93: ###
+
+**Progress:** Redux + Saga? 
+
+**Thoughts:** Mess
