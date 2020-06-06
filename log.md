@@ -172,3 +172,9 @@ React lessons
 **Progress:** Redux + Saga? 
 
 **Thoughts:** Mess
+
+### Day 94: ### 
+
+**Progress:** Was able to do some sending parameters for navigation. 
+
+**Thoughts:** Retrieved ID as params from navigation and map them out to drill-in
