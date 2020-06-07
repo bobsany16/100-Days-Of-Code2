@@ -178,3 +178,10 @@ React lessons
 **Progress:** Was able to do some sending parameters for navigation. 
 
 **Thoughts:** Retrieved ID as params from navigation and map them out to drill-in
+
+
+### Day 95: ###
+
+**Progress:** LiveSales
+
+**Thoughts:** Back to Vue but this time, it's more annoying that last
