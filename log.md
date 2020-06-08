@@ -185,3 +185,10 @@ React lessons
 **Progress:** LiveSales
 
 **Thoughts:** Back to Vue but this time, it's more annoying that last
+
+
+### Day 96: ###
+
+**Progress:** Created first Vue component via injection
+
+**Thoughts:** Eh. 
