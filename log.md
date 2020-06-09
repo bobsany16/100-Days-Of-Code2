@@ -192,3 +192,10 @@ React lessons
 **Progress:** Created first Vue component via injection
 
 **Thoughts:** Eh. 
+
+
+### Day 97: ###
+
+**Progress:** Redux works now
+
+**Thoughts:** Took a few times to try it out
