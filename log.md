@@ -199,3 +199,10 @@ React lessons
 **Progress:** Redux works now
 
 **Thoughts:** Took a few times to try it out
+
+
+### Day 98: ### 
+
+**Progress:** Was able to get RSVP to change style in Redux 
+
+**Thoughts:** Now I just gotta handle the spots to decrease
