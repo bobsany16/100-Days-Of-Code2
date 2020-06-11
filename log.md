@@ -206,3 +206,10 @@ React lessons
 **Progress:** Was able to get RSVP to change style in Redux 
 
 **Thoughts:** Now I just gotta handle the spots to decrease
+
+
+### Day 99: ###
+
+**Progress:** So Props doesn't update at all and the spots stay the same because every time the _onPressFunction_ is dispatched in the store, it takes the same amount of spots fetched from data object, that's why it stays the same. 
+
+**Thoughts:** I guess this is where React hooks come into play
