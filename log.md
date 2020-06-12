@@ -213,3 +213,9 @@ React lessons
 **Progress:** So Props doesn't update at all and the spots stay the same because every time the _onPressFunction_ is dispatched in the store, it takes the same amount of spots fetched from data object, that's why it stays the same. 
 
 **Thoughts:** I guess this is where React hooks come into play
+
+### Day 100: ###
+
+**Progress:** Finally able to wire all the components for the event drill in. Spots and attendees are now functional when click RSVP 
+
+**Thoughts:** Feels good
