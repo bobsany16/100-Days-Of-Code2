@@ -219,3 +219,10 @@ React lessons
 **Progress:** Finally able to wire all the components for the event drill in. Spots and attendees are now functional when click RSVP 
 
 **Thoughts:** Feels good
+
+
+### Day 101: ###
+
+**Progress:** Able to display the right title for RSVP button. Took only 2-3 hours 
+
+**Thoughts:** This is the extended first round of 100 days of code
