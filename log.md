@@ -226,3 +226,10 @@ React lessons
 **Progress:** Able to display the right title for RSVP button. Took only 2-3 hours 
 
 **Thoughts:** This is the extended first round of 100 days of code
+
+
+### Day 102: ###
+
+**Progress:** Did some Adobe XD challenges 
+
+**Thoughts:** Idk why I am so unmotivated
