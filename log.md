@@ -233,3 +233,9 @@ React lessons
 **Progress:** Did some Adobe XD challenges 
 
 **Thoughts:** Idk why I am so unmotivated
+
+### Day 103: ###
+
+**Progress:** Last day of round 1
+
+**Thoughts:** I really did a lot
