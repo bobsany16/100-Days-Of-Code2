@@ -239,3 +239,9 @@ React lessons
 **Progress:** Last day of round 1
 
 **Thoughts:** I really did a lot
+
+### Day 104 - 105: ###
+
+**Progress:** This Saga Bug was because of how the data was incorrectly passed in
+
+**Thoughts:** UGH
