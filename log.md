@@ -245,3 +245,9 @@ React lessons
 **Progress:** This Saga Bug was because of how the data was incorrectly passed in
 
 **Thoughts:** UGH
+
+### Day 106: ###
+
+**Progress:** First day in the office completed, finished making the event drill-in screen look much better and well executed
+
+**Thoughts:** let's get this brea
