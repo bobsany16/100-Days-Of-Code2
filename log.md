@@ -1,5 +1,7 @@
 # 100 Days Of Code - Log
 
+## ROUND 1: 
+
 ### Day 0: Sunday February 9, 2020
 
 **Today's Progress**: Fixed CSS and worked on current fitness app. Changed titls and buttons + resized them so they look consistent. Also worked on a bunch of network stuffs (Linux, vyOS, pfSense) 
@@ -251,3 +253,11 @@ React lessons
 **Progress:** First day in the office completed, finished making the event drill-in screen look much better and well executed
 
 **Thoughts:** let's get this brea
+
+## ROUND 2: ##
+
+### Day 0: ###
+
+**Progress:** Let's see what I'll be doing today
+
+**Thoughts:** Hopeful and excited
