@@ -261,3 +261,16 @@ React lessons
 **Progress:** Let's see what I'll be doing today
 
 **Thoughts:** Hopeful and excited
+
+
+### Day 1: ###
+
+**Progress:** Got some things done for Burner Black
+
+**Thoughts:** I need to learn more about this stuff
+
+### Day 2: ###
+
+**Progress:** Had to re-structure my data for Burner Black, this might have made me do more work 
+
+**Thoughts:** I like it
