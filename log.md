@@ -274,3 +274,9 @@ React lessons
 **Progress:** Had to re-structure my data for Burner Black, this might have made me do more work 
 
 **Thoughts:** I like it
+
+### Day 3: ###
+
+**Progress:** The change in structure sort of reverses everything that I did
+
+**Thoughts:** this is annoying
