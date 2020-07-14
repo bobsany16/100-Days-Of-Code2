@@ -280,3 +280,9 @@ React lessons
 **Progress:** The change in structure sort of reverses everything that I did
 
 **Thoughts:** this is annoying
+
+### Day 4 - 11: ###
+
+**Progress:** Finally took care of how to handle the change in structures and now everything is functional - ish
+
+**Thoughts:** I need to work harder at reviewing my own code before pushing to MR!!
