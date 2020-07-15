@@ -286,3 +286,11 @@ React lessons
 **Progress:** Finally took care of how to handle the change in structures and now everything is functional - ish
 
 **Thoughts:** I need to work harder at reviewing my own code before pushing to MR!!
+
+### Day 12: ###
+
+**Progress:** cleaned up code
+
+**Thoughts:** afternoon's work share better be goood. 
+
+
