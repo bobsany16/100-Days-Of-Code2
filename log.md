@@ -294,3 +294,10 @@ React lessons
 **Thoughts:** afternoon's work share better be goood. 
 
 
+### Day 13: ###
+
+**Progress:** Kept working on work project so haven't had time to work on side project. Finally resumed some freeCodeCamp module today
+
+**Thoughts:** discipline is something I lack right now
+
+
