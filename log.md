@@ -301,3 +301,9 @@ React lessons
 **Thoughts:** discipline is something I lack right now
 
 
+### Day 14: ###
+
+**Progress:** Been working on completing JS module in freeCodeCamp
+
+**Thoughts:** ugh
+
