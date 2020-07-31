@@ -313,3 +313,9 @@ React lessons
 **Progress:** sorta having an unproductive day so far. These components and nest levels are very hard to grasp
 
 **Thoughts:** ughhhh
+
+### Day 16: ###
+
+**Progress:** Made some significant-ish progress on Personal Details page
+
+**Thoughts:** Management
