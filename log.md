@@ -319,3 +319,9 @@ React lessons
 **Progress:** Made some significant-ish progress on Personal Details page
 
 **Thoughts:** Management
+
+### Day 17: ###
+
+**Progress:** Able to generalized the `onSubmitEditing()` for some of the input text field blocks. Still need to figure out the others for DOB, email format, phone format. 
+
+**Thoughts:** Iss cute or whateva
