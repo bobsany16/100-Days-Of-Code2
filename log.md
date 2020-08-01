@@ -325,3 +325,10 @@ React lessons
 **Progress:** Able to generalized the `onSubmitEditing()` for some of the input text field blocks. Still need to figure out the others for DOB, email format, phone format. 
 
 **Thoughts:** Iss cute or whateva
+
+
+### Day 18: ###
+
+**Progress:** Styled-component wasn't working for Next.js so switched to usual stylings stuff
+
+**Thoughts:** eh
