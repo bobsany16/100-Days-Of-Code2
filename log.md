@@ -332,3 +332,9 @@ React lessons
 **Progress:** Styled-component wasn't working for Next.js so switched to usual stylings stuff
 
 **Thoughts:** eh
+
+### Day 19: ###
+
+**Progress:** Styled some more basic components,
+
+**Thoughts:** Gotta figure out more options within the SubHeading component.
