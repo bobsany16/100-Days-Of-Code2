@@ -338,3 +338,9 @@ React lessons
 **Progress:** Styled some more basic components,
 
 **Thoughts:** Gotta figure out more options within the SubHeading component.
+
+### Day 20: ###
+
+**Progress:** Figured out how to change the border bottom to Orange when active. Use `onFocus()` to basically highlight the text fields and `onBlur()` to un-highlight the text fields so the `isActive` props is changed to `true`
+
+**Thoughts:** bleh, wish I knew this sooner, spent a whole day on it too
