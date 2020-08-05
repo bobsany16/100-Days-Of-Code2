@@ -344,3 +344,9 @@ React lessons
 **Progress:** Figured out how to change the border bottom to Orange when active. Use `onFocus()` to basically highlight the text fields and `onBlur()` to un-highlight the text fields so the `isActive` props is changed to `true`
 
 **Thoughts:** bleh, wish I knew this sooner, spent a whole day on it too
+
+### Day 21:### 
+
+**Progress:** Made some progress for Doron Tadmor's website. Gotta find a better way to style components without using `styledComponent`
+
+**Thoughts:** it's aight
