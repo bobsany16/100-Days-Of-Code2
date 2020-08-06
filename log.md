@@ -350,3 +350,10 @@ React lessons
 **Progress:** Made some progress for Doron Tadmor's website. Gotta find a better way to style components without using `styledComponent`
 
 **Thoughts:** it's aight
+
+
+### Day 22: ###
+
+**Progress:** Save button works on personal detail page
+
+**Thoughts:** that was something else, tbh
