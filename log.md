@@ -357,3 +357,9 @@ React lessons
 **Progress:** Save button works on personal detail page
 
 **Thoughts:** that was something else, tbh
+
+### Day 23: ###
+
+**Progress:** Literally just looked at code all day and that's it
+
+**Thoughts:** eh
