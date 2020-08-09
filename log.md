@@ -363,3 +363,10 @@ React lessons
 **Progress:** Literally just looked at code all day and that's it
 
 **Thoughts:** eh
+
+
+### Day 24: ###
+
+**Progress:** Homepage of Doron's page is semi-done for mobile-first design 
+
+**Thoughts:** It's coming together real kwik
