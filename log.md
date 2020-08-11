@@ -378,4 +378,10 @@ React lessons
 
 **Thoughts:** design resumé page first
 
+### Day 26: ###
+
+**Progress:** no further progress on Doron's page but some significant progress at work. Merged Sean's branch and failed to figure out why Navigation package wasn't transpiling. 
+
+**Thoughts:** Messy
+
 
