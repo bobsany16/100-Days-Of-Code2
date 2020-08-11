@@ -370,3 +370,12 @@ React lessons
 **Progress:** Homepage of Doron's page is semi-done for mobile-first design 
 
 **Thoughts:** It's coming together real kwik
+
+
+### Day 25: ###
+
+**Progress:** homepage for Doron is done for mobile-first 
+
+**Thoughts:** design resumé page first
+
+
