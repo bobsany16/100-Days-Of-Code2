@@ -384,4 +384,10 @@ React lessons
 
 **Thoughts:** Messy
 
+### Day 27: ###
+
+**Progress:** `NavBar` component had a massive syntax error in there, hence the whole `navigation` package just would not transpile. After fixing these errors, it transpiled like crazy. Finally got the whole thing to run. Redux initial state of `fetching` prop is still weird, 
+
+**Thoughts:** beautiful
+
 
