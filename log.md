@@ -391,3 +391,10 @@ React lessons
 **Thoughts:** beautiful
 
 
+### Day 28: ### 
+
+**Progress:** merged the thompson's work and everything ran first try! Very surprising! 
+
+**THoughts:** If only everyday were like today
+
+
