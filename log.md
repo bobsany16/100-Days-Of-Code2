@@ -397,4 +397,9 @@ React lessons
 
 **THoughts:** If only everyday were like today
 
+### Day 29: ###
+
+**Progress:** Made significant work on Doron's website today
+
+**Thoughts:** Teehee
 
