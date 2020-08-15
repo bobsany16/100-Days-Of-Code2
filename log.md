@@ -403,3 +403,9 @@ React lessons
 
 **Thoughts:** Teehee
 
+### Day 30: ###
+
+**Progress:** Resume page mobile 95% done
+
+**Thoughts:** This is getting exciting
+
