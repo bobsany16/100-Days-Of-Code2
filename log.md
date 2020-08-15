@@ -409,3 +409,9 @@ React lessons
 
 **Thoughts:** This is getting exciting
 
+### Day 31: ###
+
+**Progress:** Resume page mobile 100% done
+
+**Thoughts:** Nice stuffs
+
