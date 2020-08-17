@@ -415,3 +415,9 @@ React lessons
 
 **Thoughts:** Nice stuffs
 
+
+### Day 32: ###
+
+**Progress:** Slow monday
+
+**Thoughts:** eh.
