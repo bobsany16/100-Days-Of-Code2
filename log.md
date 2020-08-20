@@ -427,3 +427,9 @@ React lessons
 **Progress:** Finally figured it out to make the text fields appear before updating through Redux Saga
 
 **Thoughts:** Pretty happy actually
+
+### Day 34: ###
+
+**Progress:** Had a somewhat slow but productive day at work yesterday
+
+**Thoughts:** cool stuff
