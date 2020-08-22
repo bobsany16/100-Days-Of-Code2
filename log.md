@@ -433,3 +433,10 @@ React lessons
 **Progress:** Had a somewhat slow but productive day at work yesterday
 
 **Thoughts:** cool stuff
+
+
+### Day 35: ###
+
+**Progress:** Figured out some tingz for Burner Black
+
+**Thoughts:** Very nice
