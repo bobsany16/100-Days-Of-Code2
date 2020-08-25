@@ -440,3 +440,10 @@ React lessons
 **Progress:** Figured out some tingz for Burner Black
 
 **Thoughts:** Very nice
+
+
+### Day 36: ###
+
+**Progress:** Made good changes @work
+
+**Thoughts:** Tired
